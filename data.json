@@ -39,5 +39,37 @@
     "dimensions": "4488x3366",
     "copyright": "Unknown",
     "collections": "landscapes"
+  },{
+    "name": "Sky-1",
+    "author": "unsplash",
+    "url": "https://raw.githubusercontent.com/duweiwang/images/master/wallpaper_sky.jpg",
+    "thumbnail": "https://raw.githubusercontent.com/duweiwang/images/master/wallpaper_sky_preview.jpg",
+    "dimensions": "4488x3366",
+    "copyright": "Unknown",
+    "collections": "landscapes"
+  },{
+    "name": "Sky-2",
+    "author": "unsplash",
+    "url": "https://raw.githubusercontent.com/duweiwang/images/master/wallpaper_sky2.jpg",
+    "thumbnail": "https://raw.githubusercontent.com/duweiwang/images/master/wallpaper_sky2_preview.jpg",
+    "dimensions": "4488x3366",
+    "copyright": "Unknown",
+    "collections": "landscapes"
+  },{
+    "name": "Mountain",
+    "author": "unsplash",
+    "url": "https://raw.githubusercontent.com/duweiwang/images/master/wallpaper_mt.jpg",
+    "thumbnail": "https://raw.githubusercontent.com/duweiwang/images/master/wallpaper_mt_preview.jpg",
+    "dimensions": "4488x3366",
+    "copyright": "Unknown",
+    "collections": "landscapes"
+  },{
+    "name": "Canyon",
+    "author": "unsplash",
+    "url": "https://raw.githubusercontent.com/duweiwang/images/master/wallpaper_xg.jpg",
+    "thumbnail": "https://raw.githubusercontent.com/duweiwang/images/master/wallpaper_xg_preview.jpg",
+    "dimensions": "4488x3366",
+    "copyright": "Unknown",
+    "collections": "landscapes"
   }
 ]
